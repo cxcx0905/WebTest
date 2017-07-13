@@ -9,7 +9,8 @@
     p:driverClass="com.mysql.jdbc.Driver"
     p:jdbcUrl="jdbc:mysql://localhost:3306/Users"
     p:user="root"
-    p:password="9209180312cx"
+    <!-- Add password here -->
+    p:password=""
     p:maxPoolSize="40"
     p:minPoolSize="2"
     p:initialPoolSize="2"
